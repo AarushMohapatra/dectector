@@ -1,0 +1,24 @@
+body
+{
+background-size: cover;
+background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+h3
+{
+    background-color: white;
+    width: 350px;
+    height: 50px;
+    border-radius: 20px;
+}
+
+a:link {
+    color: black;
+}
